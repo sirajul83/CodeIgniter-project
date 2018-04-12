@@ -1,0 +1,37 @@
+ .head{
+ 	background-image:url("../img/4.jpg");
+ 	height: 600px; 
+ 	background-attachment: fixed;
+ 	
+
+ }
+ .navbar{
+ 	background-color: #ABB1BA;
+ }
+ ul,li{
+ 	float: left;
+ 	list-style: none;
+ 	text-transform: uppercase;
+ 	display: block;
+ 	height: auto;
+ 	color: #000;
+ 	font-size: 18px;
+ 	border-radius:none;
+ 	padding:6px 10px; 
+ 	transition: .3s;
+ }
+ li:hover{
+ 	background-color: #fff;
+ 	transition: .3s;
+ }
+.sidebar{
+	background-color: #DBDDE0;
+}
+header{
+	text-decoration: none;
+}
+header:hover{
+	background-color: #FFF;
+	text-decoration:!important;
+}
+
